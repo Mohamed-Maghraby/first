@@ -18,3 +18,4 @@ When we work on a project we may find an issue and we want to inform the owner o
 Every issue has a number called a "hashtag" number we can refer to the issue in the "commit changes" section and so the person that made the 
 issue can know that the issue has been solved, however if we write "fixes" word in the commit followed by the issue "hash" it will close the 
 issue automatically.
+In this edit we will refer to the issue #2 we made and we will close it.
