@@ -11,3 +11,11 @@ Github keep track of our change, allow the team to work on the same file at the 
 these changes will just occur on this branch "trial second version" so i can keeb my "main" branch as it is without changes and just make changes on this branch.
 when we make a new branch fron the main branch it's like we make a copy of the folder so we can chnge on it without messing with the main branch.
 if we are satisfied about the changes we made on the second branch, we can commit ["transfer"] these changes to the main branch ["folder"].
+We can make fork ["copy"] of the folder but it works different of than branch, it make a copy of the entire project, we often do that if we don't want 
+our branches to mix together and make a mess or if we decided to split up our project in a certian point for and they will be to projects with tow different features
+for EX when we make a software but we will split it in some point and one version will be on "ios" and the other will be on "Apk".
+When we work on a project we may find an issue and we want to inform the owner of the project about it, so we can go to the issue 18 section in the navbar and make an issue and we may upload a screenshot of the problem and we can also choose the type of the issue from the  19 label menu.
+Every issue has a number called a "hashtag" number we can refer to the issue in the "commit changes" section and so the person that made the 
+issue can know that the issue has been solved, however if we write "fixes" word in the commit followed by the issue "hash" it will close the 
+issue automatically.
+In this edit we will refer to the issue #2 we made and we will close it.
