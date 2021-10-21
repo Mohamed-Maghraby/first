@@ -4,3 +4,10 @@ repo trial
 hey hey repo
 this is the first edit
 the edit will be shown in the history
+this is the second version of the trial file 
+Github is an online version control system, and that means it can help us to manage different versions of our project.
+we can make a repository ["folder"], make many versions ["copys"] of that folder, and we can move these changes to the main folder as we do in this file.
+Github keep track of our change, allow the team to work on the same file at the same time and every member of the team work with a different branch.
+these changes will just occur on this branch "trial second version" so i can keeb my "main" branch as it is without changes and just make changes on this branch.
+when we make a new branch fron the main branch it's like we make a copy of the folder so we can chnge on it without messing with the main branch.
+if we are satisfied about the changes we made on the second branch, we can commit ["transfer"] these changes to the main branch ["folder"].
