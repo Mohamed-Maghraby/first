@@ -17,5 +17,6 @@ for EX when we make a software but we will split it in some point and one versio
 When we work on a project we may find an issue and we want to inform the owner of the project about it, so we can go to the issue 18 section in the navbar and make an issue and we may upload a screenshot of the problem and we can also choose the type of the issue from the  19 label menu.
 Every issue has a number called a "hashtag" number we can refer to the issue in the "commit changes" section and so the person that made the 
 issue can know that the issue has been solved, however if we write "fixes" word in the commit followed by the issue "hash" it will close the 
-issue automatically.
+issue automatically but only the owner fron the main branch can close a method and use these method to close the issue so if any one else 
+in the team solved the issue he have to make a pull request and when the owner accept and merge the changes the problem will colse.
 In this edit we will refer to the issue #2 we made and we will close it.
